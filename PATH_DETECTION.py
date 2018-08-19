@@ -1,3 +1,8 @@
+'''
+author : SOURABH KHEMKA
+project done as intern at Robolution,BIT Mesra
+'''
+
 import cv2                                                                      # OPENCV IMPORTED
 import numpy as np                                                              # NUMPY IMPORTED
 
